@@ -1,10 +1,8 @@
 # Boxless
-
 Your portal. No box. No hardware info.
 
-## Download
-
-Tap **Boxless.apk** (listed above) to download the current version (0.4.2), then open it and allow install when Android asks. Future versions will also be offered as updates inside the app.
+## ⬇ [Download Boxless.apk](https://github.com/jazzy1133/boxless/raw/main/Boxless.apk)
+Current version: 0.4.2 — tap the link, then open the downloaded file and allow install when Android asks. Future versions will also be offered as updates inside the app.
 
 ## Install
 
