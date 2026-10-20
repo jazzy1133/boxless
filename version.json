@@ -1,0 +1,6 @@
+{
+  "versionCode": 16,
+  "versionName": "0.4.2",
+  "apk": "Boxless.apk",
+  "notes": "Fixes: automatic retry on portal blips, player stays open, partial lists, honest errors."
+}
