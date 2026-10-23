@@ -1,6 +1,1 @@
-{
-  "versionCode": 16,
-  "versionName": "0.4.2",
-  "apk": "Boxless.apk",
-  "notes": "Fixes: automatic retry on portal blips, player stays open, partial lists, honest errors."
-}
+{"apk":"Boxless.apk","notes":"New: one-press 'Send logs to support' with an on-screen log viewer, a kitten startup screen that preloads your channels and movies in the background, and a new app icon.","versionCode":25,"versionName":"0.4.11"}
