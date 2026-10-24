@@ -2,13 +2,13 @@
 Your portal. No box. No hardware info.
 
 ## ⬇ [Download Boxless.apk](https://github.com/jazzy1133/boxless/raw/main/Boxless.apk)
-Current version: 0.4.11 — tap the link, then open the downloaded file and allow install when Android asks. Future versions will also be offered as updates inside the app.
+Current version: 0.4.13 — tap the link, then open the downloaded file and allow install when Android asks. Future versions will also be offered as updates inside the app.
 
-## What's new in 0.4.11
+## What's new in 0.4.13
 
-- **Send logs to support** — one press in Settings → Diagnostics sends your log straight to support and shows you a code; there's also a built-in log viewer ("Show log") for the TV.
-- **A new startup screen** — a kitten and its butterfly while your channels and movies preload in the background, so Home is ready when it opens. Boxless — your TV, your way.
-- **A new app icon** — the kitten peeking over the play button.
+- **More channels play with picture** — the player now falls back to a software decoder when the hardware one can't handle a channel, plus built-in AV1 and VP9 software decoders for channels that used to play audio-only.
+- **Aspect ratio setting** — Fill screen is the default; Auto and Zoom to fill are in the player menu and in Settings → Playback, and your choice sticks.
+- **Clean live TV** — live channels show no seek bar at the bottom, just the picture. Movies, series, and catch-up keep their seek bar.
 
 ## Install
 

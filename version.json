@@ -1,1 +1,1 @@
-{"apk":"Boxless.apk","notes":"New: one-press 'Send logs to support' with an on-screen log viewer, a kitten startup screen that preloads your channels and movies in the background, and a new app icon.","versionCode":25,"versionName":"0.4.11"}
+{"apk":"Boxless.apk","notes":"New: ExoPlayer compatibility pass — decoder fallback plus AV1/VP9 software decoders for channels that played audio-only; aspect ratio setting (Fill screen default, Auto/Zoom in the player menu); live channels show no seek bar, just clean.","versionCode":27,"versionName":"0.4.13"}
