@@ -2,13 +2,12 @@
 Your portal. No box. No hardware info.
 
 ## ⬇ [Download Boxless.apk](https://github.com/jazzy1133/boxless/raw/main/Boxless.apk)
-Current version: 0.4.13 — tap the link, then open the downloaded file and allow install when Android asks. Future versions will also be offered as updates inside the app.
+Current version: 0.4.14 — tap the link, then open the downloaded file and allow install when Android asks. Future versions will also be offered as updates inside the app.
 
-## What's new in 0.4.13
+## What's new in 0.4.14
 
-- **More channels play with picture** — the player now falls back to a software decoder when the hardware one can't handle a channel, plus built-in AV1 and VP9 software decoders for channels that used to play audio-only.
-- **Aspect ratio setting** — Fill screen is the default; Auto and Zoom to fill are in the player menu and in Settings → Playback, and your choice sticks.
-- **Clean live TV** — live channels show no seek bar at the bottom, just the picture. Movies, series, and catch-up keep their seek bar.
+- **Resume / Play from start** — open a movie or episode you've already started and you're asked first: pick up where you left off, or start from the beginning. Live channels are untouched.
+- **Startup animation now finishes** — the loading bar and butterfly always sweep to full before Home opens, even on a slow connection. No more stopping halfway.
 
 ## Install
 
