@@ -1,1 +1,1 @@
-{"apk":"Boxless.apk","notes":"New: Resume / Play from start choice when you open a movie or episode you already started watching; startup loading animation now always finishes — bar and butterfly reach full before Home opens.","versionCode":28,"versionName":"0.4.14"}
+{"apk":"Boxless.apk","notes":"New: Movie/Series search now asks the portal itself, so older titles like Victorious show up in All; the tablet poster grid uses the full screen width in Movies/Series (channels still show the preview pane, phones unchanged).","versionCode":29,"versionName":"0.4.15"}
