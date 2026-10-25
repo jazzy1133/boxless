@@ -2,12 +2,12 @@
 Your portal. No box. No hardware info.
 
 ## ⬇ [Download Boxless.apk](https://github.com/jazzy1133/boxless/raw/main/Boxless.apk)
-Current version: 0.4.16 — tap the link, then open the downloaded file and allow install when Android asks. Future versions will also be offered as updates inside the app.
+Current version: 0.4.17 — tap the link, then open the downloaded file and allow install when Android asks. Future versions will also be offered as updates inside the app.
 
-## What's new in 0.4.16
+## What's new in 0.4.17
 
-- **Search keeps up as you type** — the latest query always wins now (before, the first three letters locked the search and the rest were ignored), and results page in as you scroll instead of grinding through a 60-page scan. Type "victorious" fully and it shows up in a request or two. Live channels are untouched.
-- **Posters are true 2:3 again** — after the full-width grid landed, posters stretched tall; the shape is now enforced in the layout itself, so they render correctly at any column count, on the tab and the phone.
+- **Search works no matter how the list is sorted** — the server search used to go silent whenever Sort was set to name or number instead of portal order; it now fires in every sort mode, in Movies, Series, and inside a genre. Type "victorious" and it shows up fast, and clearing the search brings the full sorted list straight back. Live channels still search locally as before.
+- **TV search fixed the same way** — typing over a TV list now completes the list first instead of quietly searching only the rows already loaded.
 
 ## Install
 
