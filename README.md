@@ -2,7 +2,7 @@
 Your portal. No box. No hardware info.
 
 ## ⬇ [Download Boxless.apk](https://github.com/jazzy1133/boxless/raw/main/Boxless.apk)
-Current version: 0.4.18 — tap the link, then open the downloaded file and allow install when Android asks. Future versions will also be offered as updates inside the app.
+Current version: 0.4.19 — tap the link, then open the downloaded file and allow install when Android asks. Future versions will also be offered as updates inside the app.
 
 ## What is Boxless?
 
@@ -10,10 +10,9 @@ Boxless is an app for watching your own TV portal on Android — live channels, 
 
 It works with Ministra / Stalker portals. Boxless doesn't come with any channels — it plays the ones from your own portal subscription.
 
-## What's new in 0.4.18
+## What's new in 0.4.19
 
-- **Resume works now** — choosing Resume on a half-watched movie or episode plays from where you stopped. It used to fail silently: the player sent the saved position along with the play request, the portal echoed it back, and the player mistook that echo for the video link. The position now stays on your device and the player just seeks to it after the video starts.
-- **Episodes auto-play the next one** — when an episode finishes, the next episode up the list starts after a short 5-second countdown you can cancel. Lists are newest-first, so it climbs toward the latest episode and stops at the top. Turn it off in Settings → Playback → "Auto-play the next episode when one finishes" (on by default). Movies and live channels never auto-play.
+- **No more missing episodes** — a season with more episodes than fit on one page (like Victorious Season 1, which has 19) used to stop at 14: the app took the first batch and never asked for the rest, so episodes 1–5 never appeared. The app now keeps asking for the next page until the season is complete, and the header shows the season's real total.
 
 ## Install
 
