@@ -2,7 +2,7 @@
 Your portal. No box. No hardware info.
 
 ## ⬇ [Download Boxless.apk](https://github.com/jazzy1133/boxless/raw/main/Boxless.apk)
-Current version: 0.4.19 — tap the link, then open the downloaded file and allow install when Android asks. Future versions will also be offered as updates inside the app.
+Current version: 0.4.20 — tap the link, then open the downloaded file and allow install when Android asks. Future versions will also be offered as updates inside the app.
 
 ## What is Boxless?
 
@@ -10,9 +10,10 @@ Boxless is an app for watching your own TV portal on Android — live channels, 
 
 It works with Ministra / Stalker portals. Boxless doesn't come with any channels — it plays the ones from your own portal subscription.
 
-## What's new in 0.4.19
+## What's new in 0.4.20
 
-- **No more missing episodes** — a season with more episodes than fit on one page (like Victorious Season 1, which has 19) used to stop at 14: the app took the first batch and never asked for the rest, so episodes 1–5 never appeared. The app now keeps asking for the next page until the season is complete, and the header shows the season's real total.
+- **One tap opens things now** — some rows needed two taps: the first tap only highlighted the row and the second one opened it. Rows now open on the first tap, on phone and tablet. The TV remote works exactly as before: one press of OK to open, long-press OK still toggles favourites.
+- **A tap while something is loading now says so** — if you tap a season or a genre while its list is still loading, the app shows a brief "Loading…" instead of silently ignoring the tap.
 
 ## Install
 

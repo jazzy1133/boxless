@@ -1,1 +1,1 @@
-{"apk":"Boxless.apk","notes":"Fixed: seasons and variant lists no longer stop at 14 — the app now pages through the whole list, so every episode shows (Victorious Season 1 has 19, not 14), and the header shows the real total.","versionCode":33,"versionName":"0.4.19"}
+{"apk":"Boxless.apk","notes":"Fixed: rows that needed two taps now open on the first tap. A tap while a list is still loading shows a brief 'Loading…' instead of doing nothing.","versionCode":34,"versionName":"0.4.20"}
