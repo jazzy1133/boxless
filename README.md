@@ -2,13 +2,18 @@
 Your portal. No box. No hardware info.
 
 ## ⬇ [Download Boxless.apk](https://github.com/jazzy1133/boxless/raw/main/Boxless.apk)
-Current version: 0.4.25 — tap the link, then open the downloaded file and allow install when Android asks. Future versions will also be offered as updates inside the app.
+Current version: 0.4.26 — tap the link, then open the downloaded file and allow install when Android asks. Future versions will also be offered as updates inside the app.
 
 ## What is Boxless?
 
 Boxless is an app for watching your own TV portal on Android — live channels, movies, and series — on your phone, tablet, or Android TV. It replaces the set-top box: no extra hardware, and no hardware information sent from your device.
 
 It works with Ministra / Stalker portals. Boxless doesn't come with any channels — it plays the ones from your own portal subscription.
+
+## What's new in 0.4.26
+
+- **Profiles buttons no longer clip** — the Profiles screen put three wide buttons in each row, and a phone only fits two, so "Set up from phone" and "Settings" were pushed off the right edge and unreachable (the button was in the app and wired since 0.4.23 — just invisible). Each now gets its own full-width row, so all six buttons are visible and tappable on a phone.
+- **Your profile never vanishes from the picker** — the Profiles screen showed an empty list while the user was signed in and watching. The picker reads the stored list, but the live session lives separately in memory, so if the stored list reads empty, the picker now shows the live session profile instead of a blank screen. Tap it and it connects as normal; it is never written back into the stored list by itself — re-add it with + Add profile to keep it stored. The picker also logs a PROFILES line (count only, no account details) so the next log send shows what the stored list holds.
 
 ## What's new in 0.4.25
 
